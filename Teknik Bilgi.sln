@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SartBloklari", "04.SartB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Listeler", "05.Listeler\05.Listeler.csproj", "{1F69EEFC-69AA-45C6-BFE8-08CDDB3A1DE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Donguler", "06.Donguler\06.Donguler.csproj", "{44B362FE-AE77-4CFB-8604-A3CCF6FF64DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F69EEFC-69AA-45C6-BFE8-08CDDB3A1DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F69EEFC-69AA-45C6-BFE8-08CDDB3A1DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F69EEFC-69AA-45C6-BFE8-08CDDB3A1DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B362FE-AE77-4CFB-8604-A3CCF6FF64DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B362FE-AE77-4CFB-8604-A3CCF6FF64DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B362FE-AE77-4CFB-8604-A3CCF6FF64DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B362FE-AE77-4CFB-8604-A3CCF6FF64DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
