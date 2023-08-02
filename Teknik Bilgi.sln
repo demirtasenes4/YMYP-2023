@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Donguler", "06.Donguler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DegerveReferansTipler", "02.DegerveReferansTipler\02.DegerveReferansTipler.csproj", "{F5647A47-5F2D-4F87-B9F7-F9D38597A307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.NameShow", "07.NameShow\07.NameShow.csproj", "{CD21C25F-6A8D-42B0-8FC1-AEAC02174E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F5647A47-5F2D-4F87-B9F7-F9D38597A307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5647A47-5F2D-4F87-B9F7-F9D38597A307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5647A47-5F2D-4F87-B9F7-F9D38597A307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD21C25F-6A8D-42B0-8FC1-AEAC02174E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD21C25F-6A8D-42B0-8FC1-AEAC02174E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD21C25F-6A8D-42B0-8FC1-AEAC02174E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD21C25F-6A8D-42B0-8FC1-AEAC02174E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
