@@ -33,10 +33,7 @@
                 {
                     continue;
                 }
-                if(x == 3)
-                {
-                    continue;
-                }
+
                 Console.WriteLine(names[x]);
             }
 
