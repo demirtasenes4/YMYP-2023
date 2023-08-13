@@ -5,10 +5,16 @@ Console.WriteLine("Hello, World!");
 //= eşittir operatörü => değer ataması yapar
 //== kontrol operatörü => a ve b değerini kontrol eder
 
-int a = 0;
-int b = 1;
+int a = 1;
+int b = 2;
+
+bool isGreaterThan = b > a;
+
+Console.WriteLine(isGreaterThan);
 
 var c = (a == b);
+
+Console.WriteLine(c);
 
 // + - * / Matematiksel operatörler
 
